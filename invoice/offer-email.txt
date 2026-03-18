@@ -1,8 +1,8 @@
 TO: info@ravintolakopo.fi
 SUBJECT: Ravintola KOPO — uusi verkkosivusto valmis + lasku (399€)
 PREVIEW: https://yassinfennir.github.io/ravintola-kopo/
-INVOICE: YEF-2026-017
-DATE: 2026-03-18T03:04:31.739Z
+INVOICE: YEF-2026-023
+DATE: 2026-03-18T03:16:21.024Z
 
 Hei!
 
